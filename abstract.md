@@ -4,7 +4,7 @@
 
 When learning some of the more advanced concepts of .NET, it can be hard to find real life, practical applications of when you would use these concepts. For example, when would you use Generics? When do Extensions make sense?
 
-In this talk, I'm going to show you how when to use some of these advanced features by implementing our own version of LINQ. Together, we'll build
+In this talk, I'm going to show you how when to use some of these advanced features by implementing our own version of LINQ. Together, we'll write the most commonly used methods and explore how these advanced concepts
 
 Intended for developers who are already familiar with Generics, Funcs, Actions, and Extensions, you will learn when to apply these concepts and learn when to refactor.
 
